@@ -1,0 +1,41 @@
+body {
+		
+background-image: url("sky1.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+  font-size: 1.5em;
+ font-family:"Arial";
+ text-align: center;
+ color: navy;
+}
+
+h1 {
+  color: purple;
+  margin: 1em;
+  padding: 0.5em;
+  font-family:"Arial";
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 1em;
+   letter-spacing: 0.05em;
+   
+}
+
+h2 {
+  color: teal; 
+  text-shadow: 2px 2px 5px black;
+  margin: 0.3em;
+  padding: 0.4em;
+  font-family:"Arial";
+  font-weight: bold;
+  font-size: 2em;
+   letter-spacing: 0.1em;
+   
+}
+
+img {
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+  width: 250px;
+}

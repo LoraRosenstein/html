@@ -1,6 +1,6 @@
 body {
 		
-background-image: img src="blue.jpg";
+background-image: url("blue.jpg");
 background-repeat: no-repeat;
 background-size: cover;
   font-size: 1.5em;

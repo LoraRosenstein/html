@@ -1,6 +1,6 @@
 body {
 		
-background-image: url("background-2076334_1280.jpg");
+background-image: url("blue-754864_1280.png");
 background-repeat: no-repeat;
 background-size: cover;
   font-size: 1.5em;
@@ -18,11 +18,11 @@ h1 {
   font-weight: bold;
   font-size: 1em;
    letter-spacing: 0.05em;
-   
+
 }
 
 h2 {
-  color: teal; 
+  color: Blue, strong, em;
   text-shadow: 2px 2px 5px black;
   margin: 0.3em;
   padding: 0.4em;
@@ -33,9 +33,24 @@ h2 {
    
 }
 
+
+h3 {
+  color: MidnightBlue;
+  margin: 0.3em;
+  padding: 0.4em;
+  font-family:"Arial";
+  font-weight: bold;
+  font-size: 1.5em;
+   letter-spacing: 0.1em;
+  
+}
+
+
 img {
+
   border: 2px solid #ddd;
   border-radius: 5px;
   padding: 5px;
-  width: 250px;
+  width: 220px;  height="170"
+  
 }
